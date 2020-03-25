@@ -1,2 +1,2 @@
 # Visionary-computer
-Computer Vision
+Computer Vision projects I've completed.
